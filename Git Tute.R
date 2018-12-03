@@ -1,4 +1,9 @@
+# comiignoina;n a
 x=seq(1, 10, len=1)
 y=40*2 + rnorm(10,0,5)
 plot(x,y)
-# comiignoina;n a
+summary(x)
+plot(x,y)
+x=seq(1, 10, len=1)
+y=40*2 + rnorm(10,0,5)
+
